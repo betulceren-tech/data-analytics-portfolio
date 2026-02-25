@@ -43,3 +43,4 @@ Amplitude (Cohorts, Funnel Analysis, Retention, Segmentation, Journey Map)
 
 ## ⏱ Onboarding Time
 ![Onboarding Time](onboarding.png)
+<img src="funnel.png" width="800">
