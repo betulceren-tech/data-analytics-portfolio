@@ -33,4 +33,4 @@ Amplitude (Cohorts, Funnel Analysis, Retention, Segmentation, Journey Map)
 [View Amplitude Dashboard]((https://app.amplitude.com/analytics/demo/dashboard/tw2jij0e?source=copy+url))
 ## 📊 Dashboard Preview
 
-![Amplitude Dashboard](dashboard.png)
+![Amplitude Dashboard](Product-Analytics/Amplitude/image.png)
