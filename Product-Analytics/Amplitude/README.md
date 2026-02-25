@@ -38,9 +38,8 @@ Amplitude (Cohorts, Funnel Analysis, Retention, Segmentation, Journey Map)
 ## 📈 Retention Analysis
 ![Retention Analysis](retention.png)
 
-## 📉 Engagement Trends
-![Engagement Trends](userjourneymap.png)
+## 📉 User Journey Map
+![User Journey Maps](userjourneymap.png)
 
 ## ⏱ Onboarding Time
 ![Onboarding Time](onboarding.png)
-<img src="funnel.png" width="800">
